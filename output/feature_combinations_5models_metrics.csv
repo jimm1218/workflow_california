@@ -1,0 +1,61 @@
+Model,Feature_Count,Features,R2,RMSE
+Random_Forest,12,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, ocean_proximity_INLAND, ocean_proximity_ISLAND, ocean_proximity_NEAR BAY, ocean_proximity_NEAR OCEAN",0.816720228207404,49007.29113988663
+Random_Forest,9,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, ocean_proximity_INLAND",0.8162119074725848,49075.20418110293
+Random_Forest,11,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, ocean_proximity_INLAND, ocean_proximity_ISLAND, ocean_proximity_NEAR BAY",0.8158702743478955,49120.794543202515
+Random_Forest,10,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, ocean_proximity_INLAND, ocean_proximity_ISLAND",0.8155371113749346,49165.213861686476
+Random_Forest,7,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households",0.8116632364838433,49678.786805275835
+Random_Forest,8,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income",0.8101676367291155,49875.648686594046
+Random_Forest,6,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population",0.8093979833914853,49976.65393307347
+Random_Forest,3,"longitude, latitude, housing_median_age",0.8013018962327396,51027.03000724812
+Random_Forest,2,"longitude, latitude",0.7996221823362656,51242.257103573764
+Random_Forest,5,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms",0.7982244726029075,51420.663423417885
+Random_Forest,4,"longitude, latitude, housing_median_age, total_rooms",0.7843357212238417,53160.92617648099
+Gradient_Boosting,8,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income",0.7630991236957857,55716.87673068002
+Gradient_Boosting,12,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, ocean_proximity_INLAND, ocean_proximity_ISLAND, ocean_proximity_NEAR BAY, ocean_proximity_NEAR OCEAN",0.7614577009004713,55909.5671983113
+Gradient_Boosting,11,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, ocean_proximity_INLAND, ocean_proximity_ISLAND, ocean_proximity_NEAR BAY",0.7551386250600903,56645.259655655995
+Gradient_Boosting,9,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, ocean_proximity_INLAND",0.7546288629442367,56704.19217298229
+Gradient_Boosting,10,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, ocean_proximity_INLAND, ocean_proximity_ISLAND",0.7546270360858792,56704.40326206107
+Gradient_Boosting,6,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population",0.6956548408913343,63151.930214376705
+Gradient_Boosting,7,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households",0.6923528662872036,63493.58756184179
+Gradient_Boosting,5,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms",0.6521262451679546,67517.17497246801
+Linear_Regression,12,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, ocean_proximity_INLAND, ocean_proximity_ISLAND, ocean_proximity_NEAR BAY, ocean_proximity_NEAR OCEAN",0.6254382675296265,70059.19333925015
+Lasso_L1,12,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, ocean_proximity_INLAND, ocean_proximity_ISLAND, ocean_proximity_NEAR BAY, ocean_proximity_NEAR OCEAN",0.6254290184147382,70060.05832554193
+Ridge_L2,12,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, ocean_proximity_INLAND, ocean_proximity_ISLAND, ocean_proximity_NEAR BAY, ocean_proximity_NEAR OCEAN",0.6253496422005327,70067.48122785545
+Linear_Regression,10,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, ocean_proximity_INLAND, ocean_proximity_ISLAND",0.6252053293686057,70080.97469300922
+Lasso_L1,10,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, ocean_proximity_INLAND, ocean_proximity_ISLAND",0.6251952704822884,70081.91511703724
+Ridge_L2,10,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, ocean_proximity_INLAND, ocean_proximity_ISLAND",0.6251164304568613,70089.2855809164
+Linear_Regression,11,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, ocean_proximity_INLAND, ocean_proximity_ISLAND, ocean_proximity_NEAR BAY",0.6250157458741797,70098.69708528412
+Lasso_L1,11,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, ocean_proximity_INLAND, ocean_proximity_ISLAND, ocean_proximity_NEAR BAY",0.6250069607329459,70099.51821755909
+Ridge_L2,11,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, ocean_proximity_INLAND, ocean_proximity_ISLAND, ocean_proximity_NEAR BAY",0.6249288513162394,70106.81854957671
+Ridge_L2,9,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, ocean_proximity_INLAND",0.6243728482404558,70158.7622565253
+Lasso_L1,9,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, ocean_proximity_INLAND",0.6243492972505577,70160.96162150094
+Linear_Regression,9,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, ocean_proximity_INLAND",0.6243431136839581,70161.53907708713
+Ridge_L2,8,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income",0.6139258849487137,71127.70111775128
+Lasso_L1,8,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income",0.6138937892478376,71130.65760445398
+Linear_Regression,8,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income",0.6138872583185309,71131.25918417348
+Gradient_Boosting,4,"longitude, latitude, housing_median_age, total_rooms",0.5965152246010414,72713.82758913936
+Gradient_Boosting,2,"longitude, latitude",0.5933395735207712,72999.41602188711
+Gradient_Boosting,3,"longitude, latitude, housing_median_age",0.5876235300444622,73510.66784113891
+Ridge_L2,6,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population",0.37300514279231645,90643.23969253413
+Lasso_L1,6,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population",0.37299256580800266,90644.14880117653
+Linear_Regression,6,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population",0.372987948049749,90644.4825866891
+Ridge_L2,7,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households",0.37059523581724296,90817.27004995698
+Lasso_L1,7,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households",0.3705329020184619,90821.76703314309
+Linear_Regression,7,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households",0.3705100077260439,90823.41865337302
+Gradient_Boosting,1,longitude,0.3127565884911112,94898.3633514379
+Ridge_L2,5,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms",0.3003544014114351,95750.81587000625
+Lasso_L1,5,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms",0.30031984649109245,95753.18036781042
+Linear_Regression,5,"longitude, latitude, housing_median_age, total_rooms, total_bedrooms",0.30031090427780815,95753.79224926898
+Random_Forest,1,longitude,0.2930056374990464,96252.36413652138
+Linear_Regression,4,"longitude, latitude, housing_median_age, total_rooms",0.2737401925479268,97554.97794683282
+Lasso_L1,4,"longitude, latitude, housing_median_age, total_rooms",0.27373942371132864,97555.02958387563
+Ridge_L2,4,"longitude, latitude, housing_median_age, total_rooms",0.27373268082323476,97555.48245240666
+Linear_Regression,3,"longitude, latitude, housing_median_age",0.2531207087356402,98930.1434819043
+Lasso_L1,3,"longitude, latitude, housing_median_age",0.2531196925815242,98930.21078075665
+Ridge_L2,3,"longitude, latitude, housing_median_age",0.2531109799986968,98930.78780436628
+Linear_Regression,2,"longitude, latitude",0.2530243648929398,98936.52403291164
+Lasso_L1,2,"longitude, latitude",0.2530231836577773,98936.60225986398
+Ridge_L2,2,"longitude, latitude",0.25301394744187067,98937.21392342223
+Lasso_L1,1,longitude,0.0017576015160423175,114372.45303979923
+Ridge_L2,1,longitude,0.0017575773584451726,114372.45442371343
+Linear_Regression,1,longitude,0.0017575657278726675,114372.45508999302
